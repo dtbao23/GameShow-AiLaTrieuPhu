@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QPjSmCNzZiHh80sTh7uK4OW4NRvR5rW9LQlSXk5kXzRfy0UuZNqmYTeid//Dg6V6zB9ZVYHgALBUfONehLj7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\18600024_18600100_18600190\\18600024_18600100_18600190\\GameShow\\MyLib\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

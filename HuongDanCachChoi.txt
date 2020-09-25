@@ -1,0 +1,22 @@
+﻿Hôm nay chúng tôi hân hạnh được giới thiệu đến mọi người hướng dẫn trò chơi "The Ultimate Minions Quiz!"
+
+*Chức năng
+Đây là giao diện chung của game, bao gồm các chức năng: Nhìn thấy được gương mặt và nghe MC nói chuyện
+Khi vào game ấn bắt đầu một khung cửa sổ hiện lên, người chơi cần nhập địa chỉ IP của Host và "Tên" để phân biệt với người chơi khác
+Khi nhấn vào "Login" người chơi sẽ vào màn hình chơi
++ Câu hỏi và những lựa chọn trả lời sẽ được hiển thị giữa màn hình
++ Câu hỏi gồm 4 đáp án: A, B, C, D nhiệm vụ của bạn là tìm ra câu trả lời đúng và check vào đáp án mình lựa chọn
++ Đáp án 
++ Thống kê số lượng các câu trả lời A, B, C, D của tất cả người chơi qua dạng biểu đồ sau mỗi câu hỏi
+*Số lượng người chơi:
+Không giới hạn
+*Luật chơi:
+- Thứ tự người chơi: Không có ai là người chơi trước hay chơi sau,tất cả sẽ đồng thời trả lời câu hỏi 
+(mỗi người có 1 khoảng thời gian 30s để trả lời câu hỏi)
+- Người chơi không được phép trả lời khi đã hết thời gian là 30s
+*Thắng cuộc:
+- Bạn là người trả lời đúng nhiều câu hỏi nhất trong danh sách các người chơi thì bạn là người thắng cuộc
+Chúc bạn có những giờ phút chơi game vui vẻ.
+
+
+
